@@ -1,0 +1,104 @@
+{
+  "node_modules/nuxt/dist/app/entry.mjs": {
+    "file": "entry-1797ad14.mjs",
+    "src": "node_modules/nuxt/dist/app/entry.mjs",
+    "isEntry": true,
+    "dynamicImports": [
+      "pages/404.vue",
+      "pages/cv.vue",
+      "pages/index.vue",
+      "pages/resume.vue",
+      "virtual:nuxt:/home/runner/work/dindin-nibnib.com/dindin-nibnib.com/dindin/.nuxt/error-component.mjs",
+      "layouts/default.vue"
+    ],
+    "css": [
+      "entry.cc5c6e80.css"
+    ],
+    "assets": [
+      "dindin-lightweight.275567a4.png",
+      "attractifs-preview.55bc3ce7.png",
+      "r-wof-bot-screenshot.b9daae32.png"
+    ]
+  },
+  "virtual:nuxt:/home/runner/work/dindin-nibnib.com/dindin-nibnib.com/dindin/.nuxt/error-component.mjs": {
+    "file": "error-component-3361b0c8.mjs",
+    "src": "virtual:nuxt:/home/runner/work/dindin-nibnib.com/dindin-nibnib.com/dindin/.nuxt/error-component.mjs",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ],
+    "dynamicImports": [
+      "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue",
+      "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue"
+    ]
+  },
+  "pages/404.vue": {
+    "file": "404-763f1e0c.mjs",
+    "src": "pages/404.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "pages/cv.vue": {
+    "file": "cv-7464e579.mjs",
+    "src": "pages/cv.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "pages/index.vue": {
+    "file": "index-bff93a1d.mjs",
+    "src": "pages/index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "pages/resume.vue": {
+    "file": "resume-50e205d7.mjs",
+    "src": "pages/resume.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "layouts/default.vue": {
+    "file": "default-b62c6a5c.mjs",
+    "src": "layouts/default.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ],
+    "assets": [
+      "github-icon.b0e45943.png",
+      "twitter-icon.051f1a74.png",
+      "telegram-icon.77ea5150.png",
+      "discord-icon.dab08d2b.png",
+      "mail-icon.84c5719c.png"
+    ]
+  },
+  "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue": {
+    "file": "error-404-3ee87798.mjs",
+    "src": "node_modules/@nuxt/ui-templates/dist/templates/error-404.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ],
+    "css": [
+      "error-404.43ee40fd.css"
+    ]
+  },
+  "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue": {
+    "file": "error-500-d2db19ee.mjs",
+    "src": "node_modules/@nuxt/ui-templates/dist/templates/error-500.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ],
+    "css": [
+      "error-500.45c67e9b.css"
+    ]
+  }
+}
